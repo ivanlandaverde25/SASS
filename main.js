@@ -13,6 +13,7 @@ window.onload = () => {
                 juego1:"call of duty",
                 juego2:"Clash royale",
                 juego3:"Free fire",
+                juego4: "Clash of clans",
 
             },
             categoria: "Intermedio",
